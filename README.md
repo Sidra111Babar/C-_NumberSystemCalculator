@@ -16,3 +16,4 @@ Complete Number System Conversions
 15. Hexadecimal to Binary
 16. Octal to Hexadecimal
 17. Hexadecimal to Octal
+<img width="780" alt="image" src="https://github.com/user-attachments/assets/3375bb62-c9b9-479a-8b04-3620c367feee">
